@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signature Layout Test</title>
+    <!-- Checking sync working -->
+    <style>
+        .signature-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .signature-row {
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            margin-bottom: 20px; /* Space between rows */
+        }
+
+        .signature-section {
+            flex: 1;
+            max-width: 32%;
+            box-sizing: border-box;
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd; /* Optional: for better visual testing */
+        }
+
+        .signature-section img {
+            width: 100px;
+            height: 30px;
+        }
+
+        .signature-section p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="signature-container" id="signatureContainer">
+        <!-- Dynamic content will be inserted here -->
+    </div>
+
+    <script>
+        const data = [
+            {
+                "signature_data_url": "",
+                "emp_id": "INT101",
+                "full_name": "User 1",
+                "date": "2024-07-23 02:23:00",
+                "formatted_signature_date": "23-Jul-2024, 02:23 AM"
+            },
+            {
+                "signature_data_url": "",
+                "emp_id": "INT102",
+                "full_name": "User 2",
+                "date": "2024-07-23 02:23:00",
+                "formatted_signature_date": "23-Jul-2024, 02:23 AM"
+            },
+            // Add more data as needed for testing
+        ];
+
+        const container = document.getElementById('signatureContainer');
+
+        let row;
+        data.forEach((entry, index) => {
+            if (index % 3 === 0) {
+                row = document.createElement('div');
+                row.className = 'signature-row';
+                container.appendChild(row);
+            }
+
+            const section = document.createElement('div');
+            section.className = 'signature-section';
+
+            section.innerHTML = `
+                <img src="${entry.signature_data_url}" alt="Signature">
+                <p>Employee ID: ${entry.emp_id}</p>
+                <p>Name: ${entry.full_name}</p>
+                <p>Date: ${entry.formatted_signature_date}</p>
+            `;
+
+            row.appendChild(section);
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1249 @@
+2024-03-04 13:37:55 - Array
+(
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => df,fgbrejkg kjbg j
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => uploads/
+)
+
+2024-03-04 13:38:19 - Array
+(
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => df,fgbrejkg kjbg j
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => uploads/
+)
+
+2024-03-04 13:40:31 - Array
+(
+    [issueType] => Login Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => sufe uwgf i   g4gbfew
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-04 13:55:31 - Array
+(
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hjdww wgwuc wiuc
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-04 15:32:27 - Array
+(
+    [issueType] => Login Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jdkjd
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-04 15:35:18 - Array
+(
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hh
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-04 15:35:46 - Array
+(
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hh
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => uploads/WhatsApp Image 2024-03-02 at 2.18.25 PM.jpeg
+)
+
+2024-03-04 15:45:37 - Array
+(
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hvvhhv
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => uploads/ssc_chsl.jpg
+)
+
+2024-03-04 15:47:26 - Array
+(
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hh
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => ../uploads/ssc_chsl.jpg
+)
+
+2024-03-04 16:01:09 - Array
+(
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hhh maul
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => ../uploads/ssc_chsl.jpg
+)
+
+2024-03-04 16:08:16 - Array
+(
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => email test
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => ../uploads/umesh sharma-7280000001..jpeg
+)
+
+2024-03-04 16:10:13 - Array
+(
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => email test2
+    [department] => NA
+    [pin] => 12345
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-04 16:12:22 - Array
+(
+    [issueType] => Login Issue
+    [userMobile] => 0987654321
+    [email] => email.madhusree@gmail.com
+    [remarks] => This Is A login Issue Test Ticket
+    [department] => NA
+    [pin] => 54321
+    [office] => NA
+    [img_path] => ../uploads/IDBI-Bank-logo.png
+)
+
+2024-03-04 16:26:03 - Array
+(
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => this s assign test 560064
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => ../uploads/ssc_chsl.jpg
+)
+
+2024-03-04 16:42:13 - Array
+(
+    [issueType] => Login Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => tdty
+    [department] => NA
+    [pin] => 54321
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-05 05:32:19 - Array
+(
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jhvjh
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2024-02-22 at 12.22.55 PM.jpeg
+)
+
+2024-03-05 06:08:15 - Array
+(
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshal@gmail.com
+    [remarks] => hdsuhdsh
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-05 06:08:58 - Array
+(
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshal@gmail.com
+    [remarks] => hhgyftf
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => ../uploads/integra logo1.jpg
+)
+
+2024-03-05 06:16:45 - Array
+(
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => gugbjkhb
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => ../uploads/integra logo1.jpg
+)
+
+2024-03-05 06:17:16 - Array
+(
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => jbjbbb
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-05 06:21:28 - Array
+(
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => hdgdhghga
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => ../uploads/integra logo.jpg
+)
+
+2024-03-05 06:23:35 - Array
+(
+    [TicketID] => 
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => he prabhu ye kya huaa..? 10.48
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-05 06:26:47 - Array
+(
+    [TicketID] => 
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => 10.52
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => ../uploads/integra logo1.jpg
+)
+
+2024-03-05 06:27:56 - Array
+(
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => 10.53
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => ../uploads/integra logo1.jpg
+)
+
+2024-03-05 06:29:52 - Array
+(
+    [TicketID] => 12435
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => 10.54
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-05 06:43:34 - Array
+(
+    [TicketID] => 12436
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => 11.08
+
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => ../uploads/integra logo1.jpg
+)
+
+2024-03-05 06:47:14 - Array
+(
+    [TicketID] => 12437
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 1122334455
+    [email] => harshalpatil@gmail.com
+    [remarks] => 11.12
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-05 06:52:49 - Array
+(
+    [TicketID] => 12438
+    [BCID] => BC001
+    [issueType] => Login Issue
+    [userMobile] => 7499910783
+    [email] => harshalpatil@integramicro.co.in
+    [remarks] => i am facing login issue
+    [department] => NA
+    [pin] => 425401
+    [office] => NA
+    [img_path] => ../uploads/integra logo.jpg
+)
+
+2024-03-05 06:56:41 - Array
+(
+    [TicketID] => 12439
+    [BCID] => BC001
+    [issueType] => Login Issue
+    [userMobile] => 7499910783
+    [email] => harshalpatil@integramicro.co.in
+    [remarks] => login issue
+    [department] => NA
+    [pin] => 425401
+    [office] => NA
+    [img_path] => ../uploads/integra logo1.png
+)
+
+2024-03-05 07:28:28 - Array
+(
+    [TicketID] => 12440
+    [BCID] => BC001
+    [issueType] => Login Issue
+    [userMobile] => 7499910783
+    [email] => harshalpatil@gmail.com
+    [remarks] => login issue
+    [department] => NA
+    [pin] => 425401
+    [office] => NA
+    [img_path] => ../uploads/integra logo1.jpg
+)
+
+2024-03-06 06:49:51 - Array
+(
+    [TicketID] => 12441
+    [BCID] => BC3
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => yt
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => Not Received
+)
+
+2024-03-06 06:51:51 - Array
+(
+    [TicketID] => 12442
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hdg
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 07:28:12 - Array
+(
+    [TicketID] => 12443
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => Check ststus
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 07:36:18 - Array
+(
+    [TicketID] => 12444
+    [BCID] => BC3
+    [issueType] => Login Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => Index name change
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 07:38:15 - Array
+(
+    [TicketID] => 12445
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => integer mobile test
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 07:42:21 - Array
+(
+    [TicketID] => 12446
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 9547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => check it now
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 07:43:46 - Array
+(
+    [TicketID] => 12447
+    [BCID] => BC3
+    [issueType] => Connection Issue
+    [userMobile] => 9547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => check
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 07:47:44 - Array
+(
+    [TicketID] => 12448
+    [BCID] => BC3
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => hh
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 08:14:34 - Array
+(
+    [TicketID] => 12449
+    [BCID] => 1
+    [issueType] => transaction Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => ty
+    [department] => NA
+    [pin] => 560027
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 08:17:23 - Array
+(
+    [TicketID] => 12450
+    [BCID] => 1
+    [issueType] => transaction Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => Test User logged in ticket
+    [department] => NA
+    [pin] => 560027
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 09:22:56 - Array
+(
+    [TicketID] => 12451
+    [BCID] => 108
+    [issueType] => Login Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => Test UBI Issue from admin 2 user
+    [department] => NA
+    [pin] => 0
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2023-02-06 at 3.50.18 PM.jpeg
+)
+
+2024-03-06 11:20:30 - Array
+(
+    [TicketID] => 12452
+    [BCID] => 108
+    [issueType] => transaction Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => test ticket
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2023-02-06 at 8.14.06 AM.jpeg
+)
+
+2024-03-06 11:25:17 - Array
+(
+    [TicketID] => 12453
+    [BCID] => 108
+    [issueType] => Login Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => check ticket created message
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 11:25:56 - Array
+(
+    [TicketID] => 12454
+    [BCID] => 108
+    [issueType] => Connection Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => check timeout
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 11:28:49 - Array
+(
+    [TicketID] => 12455
+    [BCID] => 108
+    [issueType] => transaction Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => bdhe
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 11:29:30 - Array
+(
+    [TicketID] => 12456
+    [BCID] => 108
+    [issueType] => Connection Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => message
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 11:32:33 - Array
+(
+    [TicketID] => 12457
+    [BCID] => 108
+    [issueType] => transaction Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => check redirection
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 11:34:00 - Array
+(
+    [TicketID] => 12458
+    [BCID] => 108
+    [issueType] => transaction Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => redirect to ticket
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 11:35:30 - Array
+(
+    [TicketID] => 12459
+    [BCID] => 108
+    [issueType] => Card Issue
+    [userMobile] => 2147483647
+    [email] => subratab.eid@gmail.com
+    [remarks] => view ticket after creating
+    [department] => it
+    [pin] => 0
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-06 12:03:56 - Array
+(
+    [TicketID] => 1
+    [BCID] => 109
+    [issueType] => Login Issue
+    [userMobile] => 8951780470
+    [email] => raghavendram@integramicro.co.in
+    [remarks] => test
+    [department] => NA
+    [pin] => 0
+    [office] => NA
+    [img_path] => ../uploads/Screenshot (22).png
+)
+
+2024-03-07 06:31:16 - Array
+(
+    [TicketID] => 2
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => time test
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-07 10:03:48 - Array
+(
+    [TicketID] => 3
+    [BCID] => 1
+    [issueType] => transaction Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => test from admin
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => ../uploads/ssc_chsl.jpg
+)
+
+2024-03-07 10:05:05 - Array
+(
+    [TicketID] => 10004
+    [BCID] => 1
+    [issueType] => transaction Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => creating another for id
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => ../uploads/ssc_chsl.jpg
+)
+
+2024-03-07 10:13:35 - Array
+(
+    [TicketID] => 10005
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => test
+    [department] => NA
+    [pin] => 67890
+    [office] => NA
+    [img_path] => ../uploads/ssc_chsl.jpg
+)
+
+2024-03-07 11:27:42 - Array
+(
+    [TicketID] => 10006
+    [BCID] => BC1
+    [issueType] => transaction Issue
+    [userMobile] => 9108472414
+    [email] => jayachandramk@integramicro.co.in
+    [remarks] => Card holder in not permitted to do transaction (Decline 207)
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2023-05-30 at 3.31.54 PM.jpeg
+)
+
+2024-03-07 12:00:43 - Array
+(
+    [TicketID] => 10007
+    [BCID] => BC1
+    [issueType] => Connection Issue
+    [userMobile] => 1234567890
+    [email] => 123@gmail.com
+    [remarks] => Could not connect to server
+    [department] => NA
+    [pin] => 560221
+    [office] => NA
+    [img_path] => ../uploads/Gubbi.jpg
+)
+
+2024-03-07 12:05:20 - Array
+(
+    [TicketID] => 10008
+    [BCID] => BC2
+    [issueType] => Login Issue
+    [userMobile] => 1234567
+    [email] => 214@mail.com
+    [remarks] => bc login failed
+    [department] => NA
+    [pin] => 560321
+    [office] => NA
+    [img_path] => ../uploads/kumta.jpg
+)
+
+2024-03-07 13:15:26 - Array
+(
+    [TicketID] => 10009
+    [BCID] => 1
+    [issueType] => Connection Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => uyyuu
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-08 10:08:04 - Array
+(
+    [TicketID] => 10010
+    [BCID] => BC1
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => test ticket
+    [department] => NA
+    [pin] => 560221
+    [office] => NA
+    [img_path] => ../uploads/pngfind.com-ecommerce-development-png-6429938.png
+)
+
+2024-03-13 07:21:51 - Array
+(
+    [TicketID] => 10011
+    [BCID] => BC1
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => scscs
+    [department] => NA
+    [pin] => 560221
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2024-03-06 at 10.33.26 AM.jpeg
+)
+
+2024-03-13 09:48:56 - Array
+(
+    [TicketID] => 10012
+    [BCID] => bc4
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => kljg uguk u ukyf u yu
+    [department] => NA
+    [pin] => 09876
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2024-03-06 at 10.33.26 AM.jpeg
+)
+
+2024-03-13 10:30:04 - Array
+(
+    [TicketID] => 10013
+    [BCID] => bc4
+    [issueType] => Connection Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => vj
+    [department] => NA
+    [pin] => 09876
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-13 10:56:52 - Array
+(
+    [TicketID] => 10014
+    [BCID] => 1
+    [issueType] => Login Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => ejfbejgejegfue i ufg uf
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2024-03-06 at 10.33.26 AM.jpeg
+)
+
+2024-03-13 10:57:32 - Array
+(
+    [TicketID] => 10015
+    [BCID] => 1
+    [issueType] => Card Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => febfhe jfhef
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2024-03-06 at 10.33.26 AM.jpeg
+)
+
+2024-03-13 10:58:37 - Array
+(
+    [TicketID] => 10016
+    [BCID] => 1
+    [issueType] => transaction Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => dvdv
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-15 11:32:27 - Array
+(
+    [TicketID] => 10017
+    [BCID] => 1
+    [issueType] => transaction Issue
+    [userMobile] => 789456987
+    [email] => subrataap.eid@gmail.com
+    [remarks] => d,vebvk
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-25 11:51:59 - Array
+(
+    [TicketID] => 10018
+    [BCID] => 1
+    [issueType] => Login Issue
+    [userMobile] => 789456987
+    [email] => subratap.eid@gmail.com
+    [remarks] => kvjh kgk gui gogb ol,
+    [department] => ADMIN
+    [pin] => 560027
+    [office] => NA
+    [img_path] => ../uploads/image.jpg
+)
+
+2024-03-28 11:56:15 - Array
+(
+    [TicketID] => 10019
+    [BCID] => 117
+    [issueType] => Login Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => time test
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-28 12:01:48 - Array
+(
+    [TicketID] => 10020
+    [BCID] => 117
+    [issueType] => Connection Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => Time test using API
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-28 13:09:49 - Array
+(
+    [TicketID] => 10021
+    [BCID] => 117
+    [issueType] => Connection Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => time date checking in ticket details and table
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-28 13:26:22 - Array
+(
+    [TicketID] => 10022
+    [BCID] => 117
+    [issueType] => transaction Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => hvsfsdh fcuy fYIF Ccyuf uyfyucw egqyuyf wyuog wyf eq woggwpyge uofwuefg wey gwefg wefg wef  hcsv uha fowygf wofg ygfyug fuwe vug fqwygf  sg uer glkavbl    ererg weu hge  hregq hajgbjb soergp phq q ge qege lie guiergru qp hu q gb  gg iq guipg uip g ug igfugbjdgbaeoyg erg qeugt u uieeguiege ergquerguiqg fgbdjgbleg eru  eil  ilqrhg eui bk ige uier gueh bierhgiuer g  eig eugeuig s ig eig e i erugeug  fhaodhoash guiae go gk io ierhg oerh go go a gp ga gjgoiee gril a  osegil bl  wig seuil se il l g g u  uoeuig e bgeil gseil uig  g leh guierh g ;gdjb jdfjlk hp fpig heeig ei erui hier bh guir gerkegb dirhg ri gsl hsdo
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-29 08:05:18 - Array
+(
+    [TicketID] => 10023
+    [BCID] => 117
+    [issueType] => Connection Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => cnmsbsfhj 
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-29 08:08:57 - Array
+(
+    [TicketID] => 10024
+    [BCID] => 117
+    [issueType] => Connection Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => jhvfjhvfs
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-29 08:09:34 - Array
+(
+    [TicketID] => 10025
+    [BCID] => 117
+    [issueType] => transaction Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => smgbajv jlg i uerg uig
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-29 08:21:02 - Array
+(
+    [TicketID] => 10026
+    [BCID] => 117
+    [issueType] => Login Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => khgkj ugu g
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-03-30 05:44:34 - Array
+(
+    [TicketID] => 10027
+    [BCID] => 117
+    [issueType] => Login Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => kjbi
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-04-03 13:16:57 - Array
+(
+    [TicketID] => 10028
+    [BCID] => 117
+    [issueType] => Card Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => jgjh
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => ../uploads/junia-art-photo (1).png
+)
+
+2024-04-03 14:42:08 - Array
+(
+    [TicketID] => 10029
+    [BCID] => SBI1700013
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jfbhjfe
+    [department] => NA
+    [pin] => 581402
+    [office] => NA
+    [img_path] => 
+)
+
+2024-04-03 14:45:33 - Array
+(
+    [TicketID] => 10030
+    [BCID] => SBI1700757
+    [issueType] => Card Issue
+    [userMobile] => 09547415324
+    [email] => testnagendra@gmail.com
+    [remarks] => jkvyh
+    [department] => NA
+    [pin] => 573131
+    [office] => NA
+    [img_path] => ../uploads/WhatsApp Image 2024-01-31 at 10.52.57 AM.jpeg
+)
+
+2024-04-03 15:47:56 - Array
+(
+    [TicketID] => 10031
+    [BCID] => SBI1700734
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jghjjh
+    [department] => NA
+    [pin] => 573131
+    [office] => NA
+    [img_path] => 
+)
+
+2024-04-03 15:48:01 - Array
+(
+    [TicketID] => 10032
+    [BCID] => SBI1700734
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jghjjh
+    [department] => NA
+    [pin] => 573131
+    [office] => NA
+    [img_path] => 
+)
+
+2024-04-03 16:49:03 - Array
+(
+    [TicketID] => 10033
+    [BCID] => SBI1700734
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jghjjh
+    [department] => NA
+    [pin] => 573131
+    [office] => NA
+    [img_path] => 
+)
+
+2024-04-15 12:20:54 - Array
+(
+    [TicketID] => 10034
+    [BCID] => 117
+    [issueType] => transaction Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => This is raised by logged in users
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => ../uploads/junia-art-photo (3).jpg
+)
+
+2024-04-15 14:02:42 - Array
+(
+    [TicketID] => 10035
+    [BCID] => BC1
+    [issueType] => Login Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jgh
+    [department] => NA
+    [pin] => 560221
+    [office] => NA
+    [img_path] => 
+)
+
+2024-04-17 08:10:42 - Array
+(
+    [TicketID] => 10036
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => kjbj
+    [department] => NA
+    [pin] => 560222
+    [office] => NA
+    [img_path] => 
+)
+
+2024-04-17 11:54:56 - Array
+(
+    [TicketID] => 10037
+    [BCID] => 117
+    [issueType] => transaction Issue
+    [userMobile] => 9547415324
+    [email] => subratap.eid@gmail.com
+    [remarks] => kjbjhbk n nm uvjkig ii fy f nv ufyuf 
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-05-02 07:14:51 - Array
+(
+    [TicketID] => 10038
+    [BCID] => BC3
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => khk ugug  
+    [department] => NA
+    [pin] => 560222
+    [office] => NA
+    [img_path] => ../uploads/SKDRDP Flow Chart.jpg
+)
+
+2024-05-02 07:54:30 - Array
+(
+    [TicketID] => 10039
+    [BCID] => BC3
+    [issueType] => Connection Issue
+    [userMobile] => 1234876590
+    [email] => bc3@gmail.com
+    [remarks] => krghrg igh i hh uhg uig
+    [department] => NA
+    [pin] => 560222
+    [office] => NA
+    [img_path] => 
+)
+
+2024-05-02 08:06:48 - Array
+(
+    [TicketID] => 10040
+    [BCID] => 127
+    [issueType] => transaction Issue
+    [userMobile] => 9547415324
+    [email] => subratapore22l652@gmail.com
+    [remarks] => jsg fjs g fyg fg yrgf eg ergure 
+    [department] => NA
+    [pin] => 560064
+    [office] => NA
+    [img_path] => 
+)
+
+2024-05-02 11:20:56 - Array
+(
+    [TicketID] => 10041
+    [BCID] => SBI1700006
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jvhvj
+    [department] => NA
+    [pin] => 581111
+    [office] => NA
+    [img_path] => 
+)
+
+2024-05-02 11:24:12 - Array
+(
+    [TicketID] => 10041
+    [BCID] => SBI1700006
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => jvhvj
+    [department] => NA
+    [pin] => 581111
+    [office] => NA
+    [img_path] => 
+)
+
+2024-05-02 11:30:15 - Array
+(
+    [TicketID] => 10044
+    [BCID] => SBI1700006
+    [issueType] => transaction Issue
+    [userMobile] => 09547415324
+    [email] => subrataporel65@gmail.com
+    [remarks] => cdf
+    [department] => NA
+    [pin] => 581111
+    [office] => NA
+    [img_path] => 
+)
+
